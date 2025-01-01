@@ -1,0 +1,11 @@
+[package]
+name = "guess-the-number"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "game"
+path = "./src/main.rs"
+
+[dependencies]
+rand = "0.8.5"
