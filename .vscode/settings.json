@@ -1,0 +1,8 @@
+{
+    "pylint.enabled": false,
+    "cSpell.ignorePaths": [
+        ".gitignore",
+        "*.lock"
+    ],
+    "cmake.ignoreCMakeListsMissing": true
+}
