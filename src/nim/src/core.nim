@@ -45,5 +45,5 @@ proc run*(self: Game) =
       self.game_over = true
       echo "&red;Упс. Попытки закончились :(".color
 
-  echo "\n&purple;Разработчик: https://www.github.com/HamletSargsyan".color
-  echo "&purple;Репозиторий: https://www.github.com/HamletSargsyan/guess-the-number".color
+  echo "\n&purple;Разработчик: https://www.github.com/0xM4LL0C".color
+  echo "&purple;Репозиторий: https://www.github.com/0xM4LL0C/guess-the-number".color

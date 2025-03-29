@@ -22,4 +22,4 @@ chmod +x ./build.sh
 
 ## Лицензия
 
-Лицензировано по лицензии [MIT](https://github.com/HamletSargsyan/guess-the-number-cpp/blob/main/LICENSE)
+Лицензировано по лицензии [MIT](https://github.com/0xM4LL0C/guess-the-number-cpp/blob/main/LICENSE)

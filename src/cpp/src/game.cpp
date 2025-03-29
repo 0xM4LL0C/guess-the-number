@@ -41,7 +41,7 @@ int Game::run() {
     }
 
     std::cout << std::endl;
-    std::cout << termcolor::magenta << "Разработчик: https://www.github.com/HamletSargsyan" << std::endl;
-    std::cout << "Репозиторий: https://www.github.com/HamletSargsyan/guess-the-number" << termcolor::reset << std::endl;
+    std::cout << termcolor::magenta << "Разработчик: https://www.github.com/0xM4LL0C" << std::endl;
+    std::cout << "Репозиторий: https://www.github.com/0xM4LL0C/guess-the-number" << termcolor::reset << std::endl;
     return 0;
 }

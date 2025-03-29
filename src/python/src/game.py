@@ -51,7 +51,7 @@ class Game:
                 print(f"{Fore.RED}\nУпс. Попытки закончились :(")
                 self.game_over = True
 
-        print(f"{Fore.MAGENTA}\n\nРазработчик: https://www.github.com/HamletSargsyan")
+        print(f"{Fore.MAGENTA}\n\nРазработчик: https://www.github.com/0xM4LL0C")
         print(
-            f"{Fore.MAGENTA}Репозиторий: https://www.github.com/HamletSargsyan/guess-the-number"
+            f"{Fore.MAGENTA}Репозиторий: https://www.github.com/0xM4LL0C/guess-the-number"
         )

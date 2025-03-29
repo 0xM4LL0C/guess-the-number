@@ -80,8 +80,8 @@ impl Game {
             self.handle_user_input(input);
         }
 
-        println!("Разработчик: https://www.github.com/HamletSargsyan");
-        println!("Репозиторий: https://www.github.com/HamletSargsyan/guess-the-number");
+        println!("Разработчик: https://www.github.com/0xM4LL0C");
+        println!("Репозиторий: https://www.github.com/0xM4LL0C/guess-the-number");
     }
 }
 

@@ -60,6 +60,6 @@ func (g *Game) Run() {
 		}
 	}
 
-	color.Magenta("Разработчик: https://www.github.com/HamletSargsyan")
-	color.Magenta("Репозиторий: https://www.github.com/HamletSargsyan/guess-the-number")
+	color.Magenta("Разработчик: https://www.github.com/0xM4LL0C")
+	color.Magenta("Репозиторий: https://www.github.com/0xM4LL0C/guess-the-number")
 }

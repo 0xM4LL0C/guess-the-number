@@ -77,8 +77,8 @@ function Game:run()
         end
     end
 
-    print("\n\nРазработчик: https://www.github.com/HamletSargsyan")
-    print("Репозиторий: https://www.github.com/HamletSargsyan/guess-the-number")
+    print("\n\nРазработчик: https://www.github.com/0xM4LL0C")
+    print("Репозиторий: https://www.github.com/0xM4LL0C/guess-the-number")
 end
 
 return Game;
