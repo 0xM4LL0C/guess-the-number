@@ -6,5 +6,5 @@
 - nim
 - python
 - rust
-
+- zig
 
